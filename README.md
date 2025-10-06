@@ -174,15 +174,18 @@ App UI (Compose)
 
 ---
 
-## Credits & ownership
-- Default concept credit: **Concept by community**.  
-- Project is intended to be community-led and permissively collaborative.  
-- App name, logo, and branding are customizable by the end user or downstream maintainers.
+## Credits & Ownership
+- **Original Concept:** Provided by a community member for public use.
+- **Ownership:** This project is intentionally abandoned by the concept creator to encourage community takeover. Any developer is free to **Fork** the repository, become the new maintainer, and drive the project forward under the **permissive license**.
+- **Customization:** App name, logo, and branding are fully customizable by the new maintainer or end user.
 
 ---
 
 ## License
-*(placeholder — no license selected in this README; add a license file when decided)*
+This project is licensed under the **MIT License**.
+
+This license grants maximum freedom for anyone to use, modify, and distribute the software, which aligns with the community takeover intent.
+*(The full license text is available in the LICENSE file)*
 
 ---
 
@@ -195,8 +198,8 @@ App UI (Compose)
 
 ---
 
-## Contact & Discord / Matrix
-- Add community channels (Discord / Matrix / GitHub Discussions) for coordination.  
-- Add translator channels (esp. Malayalam, Arabic) for localization.
+## Contact & Coordination
+This project is currently seeking a new maintainer/leader. 
+If you wish to take ownership and coordinate development, please start by forking the repository and using **GitHub Discussions** in your own fork. The original concept creator will not be actively maintaining or coordinating.
 
 ---
