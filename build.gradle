@@ -1,0 +1,16 @@
+// Placeholder Gradle files for the starter project.
+// Replace with real Android Gradle plugin configs in a real project.
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
