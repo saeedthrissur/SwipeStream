@@ -31,5 +31,4 @@ Serious violations may result in a temporary or permanent ban from the project.
 ---
 
 ## 📧 Contact
-If you experience or witness unacceptable behavior, please report it to the maintainers via:
-**support@swipestream.org**
+If you experience or witness unacceptable behavior, please open an issue or contact the maintainers via the repository’s Discussions or Issues tab.
